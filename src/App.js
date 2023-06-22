@@ -4,7 +4,7 @@ import searchIcon from './search.svg'
 import MovieCard from "./Components/MovieCard/MovieCard";
 
 // a03db50a
-const apiUrl = 'http://www.omdbapi.com?apikey=a03db50a';
+const apiUrl = 'https://www.omdbapi.com?apikey=a03db50a';
 
 // const movie1 = {
 //     "Title": "John Wick: Chapter 4",
